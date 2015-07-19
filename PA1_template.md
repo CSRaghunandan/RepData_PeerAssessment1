@@ -1,9 +1,5 @@
 # Reproducible Research: Peer Assessment 1
 
-By Renatas Narmontas  
-Generated: 2014-07-20 19:21:20  
-Version: R version 3.1.1 (2014-07-10)
-
 ## Global options
 
 Loading required packages and setting global options.

@@ -5,10 +5,6 @@ output:
 ---
 # Reproducible Research: Peer Assessment 1
 
-By Renatas Narmontas  
-Generated: `r as.character(Sys.time())`  
-Version: `r R.version$version.string`
-
 ## Global options
 
 Loading required packages and setting global options.
